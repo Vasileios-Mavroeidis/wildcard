@@ -9,9 +9,9 @@ Just like a subnet mask, a wildcard mask is 32 bits long. It acts as an inverted
 
 ### How to use the function
 
-Just give as input a Subnet mask. For example **wildcard("255.255.255.0")
+Just give as input a Subnet mask. For example **wildcard("255.255.255.0")**
 
-This would result in a Wildcard mask of **0.0.0.255
+This would result in a Wildcard mask of **0.0.0.255**
 
 
 
